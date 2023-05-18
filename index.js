@@ -54,17 +54,17 @@ console.log(result)
 
 // // завдання 9 
 
-const pricePerDroid = 800;
+const pricePerdhek = 800;
 const orderedQuantity = 6;
-const deliveryFee = 50;
-const totalPrice = deliveryFee + pricePerDroid + orderedQuantity ; 
+const deliryFee = 50;
+const totalPrice = deliryFee * pricePerdhek + orderedQuantity ; 
 const message = `You ordered droids worth ${totalPrice} credits. Delivery (${deliveryFee} credits) is included in total price.`
 console.log(message)
 
 // завдання 10 
 
-const courseTopic = "JavaScript essentials";
-const courseTopicLength = courseTopic.length;
+const coursTopic = "JavaScript essentials";
+const coursTopicLength = courseTopic.length;
 const firstElement = courseTopic.slice(0, 1);
 const lastElement = courseTopic.slice(20, courseTopicLength);
 console.log(courseTopicLength, firstElement, lastElement);
