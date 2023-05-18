@@ -6,7 +6,7 @@ console.log(email.includes("@"));
 const my = "My "
 const name = "name "
 const is = "is "
-const fullName = my + name + is + "Victor";
+const fullName = my + name + is + "Max";
 console.log(fullName)
 
 // завдання 3
