@@ -26,14 +26,14 @@ console.log(replacedName)
 // завдання 5
 
 const firstName = "max ";
-const lastName = "terekh" ;
+const lastName = "miron" ;
 
 const fullSentence = firstName + lastName ;
 console.log(fullSentence.indexOf(" "))
 
 // завдання 6
 
-const balance = "Ваш баланс поповнено на 10000000000000000"
+const balance = "Ваш баланс поповнено на 10000"
 console.log(balance.length)
 
 // завдання 7
@@ -43,7 +43,7 @@ console.log(result)
 
 // завдання 8 
 
-// const productName = "Droid";
+// const productName = "Dhek";
 // const pricePerItem = 3500;
 
 // const message = `You picked ${productName}, price per item is ${pricePerItem} credits`;
